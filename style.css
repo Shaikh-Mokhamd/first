@@ -4,7 +4,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	font-family: 'Monserrat'
+	font-family: 'Montserrat'
 }
 header{
 	background-image: url(img/Rectangle.png);
@@ -32,5 +32,32 @@ header{
 .peredovaja-rod{
 	width: 1170px;
 	margin: auto;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	padding-top: 220px;
+	padding-bottom: 335px;
+}
+.peredovaja-studio{
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: 100;
+}
+.we-make{
+	font-size: 48px;
+	line-height: 65px;
+	width: 830px;
+	margin: auto;
+	font-weight: 800;
+	margin-top: 50px;
+}
+button{
+	background-color: #4985FF;
+	width: 200px;
+	height: 45px;
+	border-radius: 20px;
+	margin-top: 50px;
+}
+.butour{
+	text-decoration: none;
 	color: white;
 }
